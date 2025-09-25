@@ -1,5 +1,5 @@
 # EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
-#### Name : LEVAKU LAKSHMI MOUNIKA
+#### Name : levaku lakshmi mounika
 #### Register Number : 212223100026
 ## Aim: 
 To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
@@ -11,8 +11,7 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
   
 ## Procedure:
  1. click on STM 32 CUBE IDE, the following screen will appear 
- ![Uploading Screenshot 2025-09-12 151450.png…]()
-
+ ![image](https://user-images.githubusercontent.com/36288975/226189166-ac10578c-c059-40e7-8b80-9f84f64bf088.png)
 
  2. click on FILE, click on new stm 32 project 
  ![image](https://user-images.githubusercontent.com/36288975/226189215-2d13ebfb-507f-44fc-b772-02232e97c0e3.png)
@@ -205,6 +204,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 
+<img width="445" height="512" alt="image" src="https://github.com/user-attachments/assets/2dec38d6-c1ca-4feb-8edb-044600d7fe8b" />
 
  
 ## layout of the circuit 
